@@ -5,7 +5,7 @@ This project implements a movie recommender system based on user ratings data. I
 
 1. Collaborative Filtering:
   Item-based approach using Pearson Correlation and Cosine Similarity
-  User-based approach using Pearson Correlation (Optional)
+  User-based approach using Pearson Correlation
 2. Matrix Factorization
 3. Data Description
 
