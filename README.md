@@ -4,8 +4,8 @@ Personalized Movie Recommender System to Enhance User Experience
 This project implements a movie recommender system based on user ratings data. It explores various techniques for generating personalized recommendations, including:
 
 1. Collaborative Filtering:
-  Item-based approach using Pearson Correlation and Cosine Similarity
-  User-based approach using Pearson Correlation
+  a. Item-based approach using Pearson Correlation and Cosine Similarity
+  b. User-based approach using Pearson Correlation
 2. Matrix Factorization
 3. Data Description
 
